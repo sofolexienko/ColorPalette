@@ -1,1 +1,2 @@
 # ColorPalette
+(http://127.0.0.1:5500/#60F63A-BEC24B-12BA33-C7B282-AFC124)
